@@ -13,7 +13,6 @@ A modern e-commerce platform for buying and selling jewelry, built as part of Ye
 - [Database Setup](#database-setup)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Authors](#authors)
@@ -168,10 +167,6 @@ jewel-aura-2023/
 │
 └── README.md             # This file
 ```
-
-## 📸 Screenshots
-
-_Add screenshots of your application here to showcase the UI/UX_
 
 ## 🤝 Contributing
 
