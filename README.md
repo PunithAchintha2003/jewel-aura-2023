@@ -189,7 +189,7 @@ This project is created for educational purposes as part of Year 1 Semester 2 We
 
 ## 👥 Authors
 
-- Group Work
+- **Development Team** - Year 1 Semester 2 Web Based Application Development
 
 ## 🙏 Acknowledgments
 
