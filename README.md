@@ -189,7 +189,7 @@ This project is created for educational purposes as part of Year 1 Semester 2 We
 
 ## 👥 Authors
 
-- **Your Name** - _Initial work_ - [YourGitHub](https://github.com/yourusername)
+- Group Work
 
 ## 🙏 Acknowledgments
 
